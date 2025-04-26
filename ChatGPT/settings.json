@@ -1,0 +1,10 @@
+{
+  "serial_port": "/dev/ttyUSB0",
+  "baudrate": 9600,
+  "openai_url": "https://api.openai.com/v1/chat/completions",
+  "api_key": "YOUR_OPENAI_API_KEY",
+  "openai_model": "gpt-3.5-turbo",
+  "system_prompt": "You are speaking over a 9600 baud serial connection to a user of the C64.  By default, answer very, VERY briefly.",
+  "temperature": 0.7
+  }
+  
